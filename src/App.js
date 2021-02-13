@@ -1,13 +1,14 @@
 import './App.css';
+import MessageInput from "./MessageInput";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Quick reply app
-        </p>
-      </header>
+      <h1>
+        Quick reply app
+      </h1>
+      <MessageDisplay />
+      <MessageInput />
     </div>
   );
 }
