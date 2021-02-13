@@ -1,5 +1,6 @@
 import './App.css';
 import MessageInput from "./MessageInput";
+import MessageDisplay from "./MessageDisplay";
 
 function App() {
   return (

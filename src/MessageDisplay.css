@@ -1,0 +1,7 @@
+.MessageDisplay {
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+  height: 400px;
+  margin: 20px auto;
+  width: 93%;
+}
