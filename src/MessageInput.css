@@ -1,3 +1,7 @@
 .MessageInput form {
   margin: 10px;
 }
+.MessageInput button {
+  background-color: #7953b2;
+  border: #7953b2;
+}
