@@ -1,6 +1,5 @@
 import './App.css';
 import MessageInput from "./MessageInput";
-import MessageDisplay from "./MessageDisplay";
 
 function App() {
   return (
@@ -8,7 +7,6 @@ function App() {
       <h1>
         Quick reply app
       </h1>
-      <MessageDisplay />
       <MessageInput />
     </div>
   );
